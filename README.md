@@ -53,7 +53,7 @@
 <!-- START_SECTION:brain -->
 * <a href='https://github.com/cyrus-huang/Smart-PlantFactory' target='_blank'>Smart PlantFactory🪴</a> - 2023-07-21
 * <a href='https://github.com/cyrus-huang/Clever-Ozzy' target='_blank'>Clever Ozzy 😺</a> - 2020-08-03
-* <a href='https://github.com/cyrus-huang/user-monitor-system' target='_blank'>Room monitoring system 🖲️</a> - 2023-08-23
+* <a href='https://github.com/cyrus-huang/user-monitor-system' target='_blank'>IntraGuard 🖲️</a> - 2023-08-23
 <!-- END_SECTION:brain -->
  
 </td></tr>
